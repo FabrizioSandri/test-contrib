@@ -6,5 +6,5 @@ Please fork this repo and add your name in this list by sending a pull request:
 - [Fabrizio](https://github.com/FabrizioSandri)
 - [Austin Baines](https://github.com/abaines1)
 - [Alexis Shorter](https://github.com/alexisshorter)
-- [add your name here](here the link)
+- [Jessica Dang](https://github.com/jestdang)
 - [add your name here](here the link)
